@@ -1,0 +1,147 @@
+{
+    "data": [
+        {
+            "product1": [
+                {
+                    "id": 1,
+                    "img": "https://static.tildacdn.com/tild3762-6662-4164-b266-366238343630/_WhatsApp_2024-09-17.jpg",
+                    "img2": "https://static.tildacdn.com/tild6438-6431-4965-a164-613433323136/_WhatsApp_2024-09-17.jpg",
+                    "img3": "https://static.tildacdn.com/tild6530-3138-4539-b432-343663633532/_WhatsApp_2024-09-17.jpg",
+                    "img4": "https://static.tildacdn.com/tild6630-3939-4261-b935-383663393139/_WhatsApp_2024-09-17.jpg",
+                    "img5": "https://static.tildacdn.com/tild6262-6438-4938-a431-653862316137/_WhatsApp_2024-09-17.jpg",
+                    "img6": "https://static.tildacdn.com/tild3231-6634-4432-a435-333938616134/_WhatsApp_2024-09-17.jpg",
+                    "img7": "https://static.tildacdn.com/tild3261-3338-4739-b762-396238616539/_WhatsApp_2024-09-17.jpg",
+                    "ProductName": "مجمع سكني أماي، مدينة ألماتي",
+                    "data": "١٧ سبتمبر ٢٠٢٤"
+                },
+                {
+                    "id": 2,
+                    "img": "https://static.tildacdn.com/tild6239-3863-4634-b561-376432343463/240911_Atakent-6.jpg",
+                    "img2": "https://static.tildacdn.com/tild3937-3864-4438-b165-363131323666/240911_Atakent-12.jpg",
+                    "img3": "https://static.tildacdn.com/tild3133-3264-4237-a333-626563323762/240911_Atakent-6.jpg",
+                    "img4": "https://static.tildacdn.com/tild3539-3363-4935-a166-666430343665/240911_Atakent-13.jpg",
+                    "img5": "https://static.tildacdn.com/tild3065-6131-4738-b237-616363343062/240911_Atakent-30.jpg",
+                    "img6": "https://static.tildacdn.com/tild3333-3962-4434-a334-326564623433/240911_Atakent-21.jpg",
+                    "img7": "https://static.tildacdn.com/tild3830-6533-4133-a633-623231623864/240911_Atakent-17.jpg",
+                    "ProductName": "مجمع سكني ألطن أوردا، مدينة ألماتي",
+                    "data": "٢١ أكتوبر ٢٠٢٤"
+                },
+                {
+                    "id": 3,
+                    "img": "https://static.tildacdn.com/tild3765-6139-4139-b363-643334616434/photo_2022-12-05_15-.jpg",
+                    "img2": "https://static.tildacdn.com/tild3162-3964-4064-b866-653337336437/photo_2022-12-05_14-.jpg",
+                    "img3": "https://static.tildacdn.com/tild6137-6433-4535-b134-393439356331/photo_2022-12-05_14-.jpg",
+                    "img4": "https://static.tildacdn.com/tild6137-6433-4535-b134-393439356331/photo_2022-12-05_14-.jpg",
+                    "ProductName": "مجمع سكني سارياكا، مدينة نور سلطان",
+                    "data": "١٥ أغسطس ٢٠٢٤"
+                },
+                {
+                    "id": 4,
+                    "img": "https://static.tildacdn.com/tild6264-6162-4266-b864-363262383536/photo_2023-01-06_15-.jpg",
+                    "ProductName": "مشروع سكني سارياركا، مدينة نور سلطان",
+                    "data": "١٥.٠٨.٢٠٢٤"
+                },
+                {
+                    "id": 5,
+                    "img": "https://static.tildacdn.com/tild3266-3561-4030-b262-356435323664/DSC_0211_1.jpg",
+                    "ProductName": "مشروع سكني سارياركا، مدينة نور سلطان",
+                    "data": "١٥.٠٨.٢٠٢٤"
+                },
+                {
+                    "id": 6,
+                    "img": "https://static.tildacdn.com/tild3931-6261-4434-a135-336637363064/_WhatsApp_2023-12-26.png",
+                    "ProductName": "مشروع سكني سارياركا، مدينة نور سلطان",
+                    "data": "١٥.٠٨.٢٠٢٤"
+                },
+                {
+                    "id": 7,
+                    "img": "https://static.tildacdn.com/tild6133-6261-4565-b830-306536626663/_WhatsApp_2023-12-26.png",
+                    "ProductName": "مشروع سكني سارياركا، مدينة نور سلطان",
+                    "data": "١٥.٠٨.٢٠٢٤"
+                },
+                {
+                    "id": 8,
+                    "img": "https://static.tildacdn.com/tild3061-6436-4533-b531-633066333661/_WhatsApp_2023-12-26.jpg",
+                    "ProductName": "مشروع سكني سارياركا، مدينة نور سلطان",
+                    "data": "١٥.٠٨.٢٠٢٤"
+                }
+                
+            ] ,
+
+"product2": [
+  {
+    "id": 1,
+    "img": "https://optim.tildacdn.com/tild3662-3237-4435-a132-323361626564/-/format/webp/1.png",
+    "img2" : "https://optim.tildacdn.com/tild3431-3533-4265-b163-393236363663/-/format/webp/2-Origami_two.jpg",
+    "ProductName": "مقاعد",
+    "AboutProduct": "الأشكال المعمارية الصغيرة من حجر الرخام المركب `Arhitas`",
+    "Category": "الأثاث"
+  },
+  {
+    "id": 2,
+    "img": "https://optim.tildacdn.com/tild3463-3863-4238-b334-336634336337/-/format/webp/74-Spirit.jpg",
+    "img2": "https://optim.tildacdn.com/tild3635-6438-4533-b030-363535376131/-/format/webp/69-Canyon.jpg",
+    "ProductName": "سلال المهملات",
+    "AboutProduct": "الأشكال المعمارية الصغيرة من حجر الرخام المركب `Arhitas`",
+    "Category": "سلال المهملات"
+  },
+  {
+    "id": 3,
+    "img": "https://optim.tildacdn.com/tild3064-3362-4263-b932-643538656365/-/format/webp/Vazon_Crown.jpg",
+    "img2": "https://optim.tildacdn.com/tild6663-3334-4335-a232-636662383664/-/format/webp/Vazon_onda_ugol.jpg",
+    "ProductName": "المزهريات",
+    "AboutProduct": "الأشكال المعمارية الصغيرة من حجر الرخام المركب `Arhitas`",
+    "Category": "المزهريات"
+  },
+  {
+    "id": 4,
+    "img": "https://optim.tildacdn.com/tild6264-3762-4136-b733-643831356436/-/format/webp/121-Seven.jpg",
+    "img2": "https://optim.tildacdn.com/tild6236-3235-4661-b731-343466653034/-/format/webp/124-Tulip.jpg",
+    "ProductName": "النوافير",
+    "AboutProduct": "الأشكال المعمارية الصغيرة من حجر الرخام المركب `Arhitas`",
+    "Category": "النوافير"
+  },
+  {
+    "id": 5,
+    "img": "https://optim.tildacdn.com/tild3136-3935-4334-b565-626331363964/-/format/webp/137_-_piramida_one.jpg",
+    "img2": "https://optim.tildacdn.com/tild3136-3935-4334-b565-626331363964/-/format/webp/137_-_piramida_one.jpg",
+    "ProductName": "الشبكات الدائرية للأشجار",
+    "AboutProduct": "الأشكال المعمارية الصغيرة من حجر الرخام المركب `Arhitas`",
+    "Category": "شبكات الأشجار"
+  },
+  {
+    "id": 6,
+    "img": "https://optim.tildacdn.com/tild3366-6231-4535-b339-366439383961/-/format/webp/107_-_Classic.jpg",
+    "img2": "https://optim.tildacdn.com/tild3365-3334-4439-b038-633964343939/-/format/webp/Kamni.jpg",
+    "ProductName": "الحواجز والمصابيح",
+    "AboutProduct": "الأشكال المعمارية الصغيرة من حجر الرخام المركب `Arhitas`",
+    "Category": "الحواجز والمصابيح"
+  },
+  {
+    "id": 7,
+    "img": "https://optim.tildacdn.com/tild3533-6463-4565-a161-623634323565/-/format/webp/Stol_August.jpg",
+    "img2": "https://optim.tildacdn.com/tild3035-6533-4832-b631-366430313031/-/format/webp/135-Olymp.jpg",
+    "ProductName": "الطاولات",
+    "AboutProduct": "الأشكال المعمارية الصغيرة من حجر الرخام المركب `Arhitas`",
+    "Category": "الطاولات"
+  },
+  {
+    "id": 8,
+    "img": "https://optim.tildacdn.com/tild6534-6661-4664-a332-666633633730/-/format/webp/119-V3.jpg",
+    "img2": "https://optim.tildacdn.com/stor6263-6234-4737-b330-633930383933/-/format/webp/19381420.jpg",
+    "ProductName": "مواقف الدراجات",
+    "AboutProduct": "الأشكال المعمارية الصغيرة من حجر الرخام المركب `Arhitas`",
+    "Category": "مواقف الدراجات"
+  },
+  {
+    "id": 9,
+    "img": "https://optim.tildacdn.com/tild3665-3737-4534-b336-316666353736/-/format/webp/149-Spray.jpg",
+    "img2" : "https://optim.tildacdn.com/tild3464-6633-4762-b238-306535343633/-/format/webp/12_Monro_2__-____2.png",
+    "ProductName": "فن وتصميم داخلي",
+    "AboutProduct": "الأشكال المعمارية الصغيرة من حجر الرخام المركب `Arhitas`",
+    "Category": "فن وتصميم داخلي"
+  }
+]
+              }
+    ]
+}
